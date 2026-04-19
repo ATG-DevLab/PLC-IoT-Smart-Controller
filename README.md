@@ -110,7 +110,7 @@ The following images show the different stages of development and hardware imple
 The Arduino firmware for the project is available in:
 
 ```
-Assets/Firmware/PLC_IoT_Controller
+Assests/Firmware/PLC_IoT_Controller/PLC_IoT_Controller.ino
 ```
 
 Steps to upload firmware:
