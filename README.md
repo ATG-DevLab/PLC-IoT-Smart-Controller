@@ -62,44 +62,46 @@ Designed as a **scalable and reliable automation solution** for home, laboratory
 
 # 🖼️ Project Development & Hardware
 
-### 01 – Circuit Diagram Planning
-![01](Assets/Project-images/01_circuit_diagram_planing_stage.png)
+The following images show the different stages of development and hardware implementation of the PLC IoT Smart Controller project.
 
-### 02 – Code Testing on Breadboard
-![02](Assets/Project-images/02_code_testing_on_breadboard.png)
+1. **Circuit Diagram Planning**  
+   Initial hand-drawn circuit diagram showing the architecture of the PLC-style relay control system.
 
-### 03 – ESP-01 Programming using CH340 TTL Converter
-![03](Assets/Project-images/03_esp-01_programming_using_ch340_ttl_converter.png)
+2. **Code Testing on Breadboard**  
+   Testing Arduino and ESP communication on a breadboard before final hardware assembly.
 
-### 04 – ESP-01 Module
-![04](Assets/Project-images/04_esp-01_module.png)
+3. **ESP-01 Programming using CH340 TTL Converter**  
+   Programming the ESP-01 WiFi module using a CH340 USB-TTL converter.
 
-### 05 – ESP-01 Side View
-![05](Assets/Project-images/05_esp-01_side_view.png)
+4. **ESP-01 Module**  
+   Close view of the ESP-01 WiFi module used for IoT communication.
 
-### 06 – Circuit Making
-![06](Assets/Project-images/06_circuit_making.png)
+5. **ESP-01 Side View**  
+   Side view showing the pin layout and module structure.
 
-### 07 – Circuit Compared with Diagram
-![07](Assets/Project-images/07_circuit_compare_with_diagram.png)
+6. **Circuit Making**  
+   Initial stage of building the controller circuit on the PCB.
 
-### 08 – Circuit Bottom View
-![08](Assets/Project-images/08_circuit_bottom_view.png)
+7. **Circuit Compared with Diagram**  
+   Comparing the physical circuit with the planned circuit diagram.
 
-### 09 – Circuit View
-![09](Assets/Project-images/09_circuit_view.png)
+8. **Circuit Bottom View**  
+   Bottom side of the PCB showing solder connections.
 
-### 10 – Circuit Power Up
-![10](Assets/Project-images/10_circuit_powerup.png)
+9. **Circuit View**  
+   Complete circuit assembled and connected.
 
-### 11 – Project Setup
-![11](Assets/Project-images/11_project_setup.png)
+10. **Circuit Power Up**  
+    First power-on test of the hardware controller.
 
-### 12 – Project Testing
-![12](Assets/Project-images/12_project_testing.png)
+11. **Project Setup**  
+    Complete setup including controller board and connected devices.
 
-### 13 – Final Smart Controller
-![13](Assets/Project-images/13_smart_controller_youtube_video_thumbnail.png)
+12. **Project Testing**  
+    Functional testing of relay switching and IoT communication.
+
+13. **Final Smart Controller**  
+    Final assembled PLC-IoT Smart Controller ready for operation and demonstration.
 
 ---
 
@@ -108,7 +110,7 @@ Designed as a **scalable and reliable automation solution** for home, laboratory
 The Arduino firmware for the project is available in:
 
 ```
-Assets/Firmware/
+Assets/Firmware/PLC_IoT_Controller
 ```
 
 Steps to upload firmware:
