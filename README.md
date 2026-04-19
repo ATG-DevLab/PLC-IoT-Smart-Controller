@@ -62,44 +62,44 @@ Designed as a **scalable and reliable automation solution** for home, laboratory
 
 # 🖼️ Project Development & Hardware
 
-### 01 – Initial Hardware Setup
-![01](Assets/Project-images/01.png)
+### 01 – Circuit Diagram Planning
+![01](Assets/Project-images/01_circuit_diagram_planing_stage.png)
 
-### 02 – PCB Assembly
-![02](Assets/Project-images/02.png)
+### 02 – Code Testing on Breadboard
+![02](Assets/Project-images/02_code_testing_on_breadboard.png)
 
-### 03 – Microcontroller Circuit
-![03](Assets/Project-images/03.png)
+### 03 – ESP-01 Programming using CH340 TTL Converter
+![03](Assets/Project-images/03_esp-01_programming_using_ch340_ttl_converter.png)
 
-### 04 – Relay Control Section
-![04](Assets/Project-images/04.png)
+### 04 – ESP-01 Module
+![04](Assets/Project-images/04_esp-01_module.png)
 
-### 05 – ESP8266 Integration
-![05](Assets/Project-images/05.png)
+### 05 – ESP-01 Side View
+![05](Assets/Project-images/05_esp-01_side_view.png)
 
-### 06 – Wiring & Hardware Testing
-![06](Assets/Project-images/06.png)
+### 06 – Circuit Making
+![06](Assets/Project-images/06_circuit_making.png)
 
-### 07 – Firmware Programming
-![07](Assets/Project-images/07.png)
+### 07 – Circuit Compared with Diagram
+![07](Assets/Project-images/07_circuit_compare_with_diagram.png)
 
-### 08 – Relay Output Testing
-![08](Assets/Project-images/08.png)
+### 08 – Circuit Bottom View
+![08](Assets/Project-images/08_circuit_bottom_view.png)
 
-### 09 – IoT Connectivity Setup
-![09](Assets/Project-images/09.png)
+### 09 – Circuit View
+![09](Assets/Project-images/09_circuit_view.png)
 
-### 10 – System Integration
-![10](Assets/Project-images/10.png)
+### 10 – Circuit Power Up
+![10](Assets/Project-images/10_circuit_powerup.png)
 
-### 11 – Final Hardware Assembly
-![11](Assets/Project-images/11.png)
+### 11 – Project Setup
+![11](Assets/Project-images/11_project_setup.png)
 
-### 12 – Device Testing
-![12](Assets/Project-images/12.png)
+### 12 – Project Testing
+![12](Assets/Project-images/12_project_testing.png)
 
-### 13 – Completed PLC-IoT Smart Controller
-![13](Assets/Project-images/13.png)
+### 13 – Final Smart Controller
+![13](Assets/Project-images/13_smart_controller_youtube_video_thumbnail.png)
 
 ---
 
